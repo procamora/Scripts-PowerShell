@@ -1,29 +1,12 @@
-# README #
+Recopilacion de pequeños scripts desarrollados en PowerShell
 
-This README would normally document whatever steps are necessary to get your application up and running.
+* **ActiveConectionPPPPoE.ps1**
+Script hecho para prtg, su funcionalidad es la de conectarse a un mikrotik y ver la cantidad de conexiones que hay, luego las imprime con el formato de los sensores de prtg.
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* **ubnt_CompilanceTest.ps1** 
+Añade al menu de la antena ubiquiti el Compilance Test.
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* **crear-usuarios-for.ps1** 
+Bucle para crar usuarios en el sistema
